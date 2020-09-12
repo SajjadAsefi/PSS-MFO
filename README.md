@@ -13,9 +13,9 @@ The simulation contains an optimization algorithm (Math-Flame Optimization), whi
 The robustness of each controller has been evaluated via four different types of error criteria and coefficients optimized by the MFO, which provides reasonable solution. 
 
 Files contain:
-1- Separate optimization for PI + the Excel file of the results I have obtained running the code
-2- Separate optimization for PID + the Excel file of the results I have obtained running the code
-3- Separate optimization for Lead-Lag + the Excel file of the results I have obtained running the code
-4- A comparison between all three controllers using the data obtained based on separate optimization of each
++ Separate optimization for PI + the Excel file of the results I have obtained running the code
++ Separate optimization for PID + the Excel file of the results I have obtained running the code
++ Separate optimization for Lead-Lag + the Excel file of the results I have obtained running the code
++ A comparison between all three controllers using the data obtained based on separate optimization of each
 
 All the best
