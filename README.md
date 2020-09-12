@@ -8,14 +8,14 @@ You are allowed to use this code for educational purposes and for citation use t
 
 Power system stabilizer (PSS) optimization using MFO algorithm
 
-The simulation contains an optimization algorithm (Math-Flame Optimazation), which is used to tune diffferent types of PSS that stablizes a Single (synchronous) Machine connected to an Infinite Bus (SMIB). 
+The simulation contains an optimization algorithm (Math-Flame Optimization), which is used to tune different types of PSS that stabilizes a Single (synchronous) Machine connected to an Infinite Bus (SMIB). 
 
-The robustness of each controller has been evaluated via four different types of error criteria and coefficients optimized by the MFO which provides reasonable solution. 
+The robustness of each controller has been evaluated via four different types of error criteria and coefficients optimized by the MFO, which provides reasonable solution. 
 
 Files contain:
-1- Seperate optimization for PI + the Excel file of the results I have obtained running the code
-2- Seperate optimization for PID + the Excel file of the results I have obtained running the code
-3- Seperate optimization for Lead-Lag + the Excel file of the results I have obtained running the code
-4- A comparison between all three controllers using the data obtained based on seperate optimization of each
+1- Separate optimization for PI + the Excel file of the results I have obtained running the code
+2- Separate optimization for PID + the Excel file of the results I have obtained running the code
+3- Separate optimization for Lead-Lag + the Excel file of the results I have obtained running the code
+4- A comparison between all three controllers using the data obtained based on separate optimization of each
 
 All the best
